@@ -1,0 +1,108 @@
+@charset "EUC-KR";
+
+section {
+	background-color: #5BA6FF;
+	height: 800px;
+	
+	position: relative;
+	margin-top: 0px;
+	text-align: center;
+}
+
+#rsvWindow {
+	background-color: #FFFFFF;
+	border: 5px solid rgba(91, 166, 255, 1);
+	margin-left: 100px;
+	margin-right: 100px;
+	border-width: 50px;
+	padding: 100px;
+	font-size: 30px;
+}
+
+.clickColor {
+	background-color: rgba(0, 0, 255, .9);
+	color: white;
+}
+
+.clickColor2 {
+	background-color: rgba(255, 0, 0, .9);
+	color: white;
+}
+
+#table {
+	font-family: Lato-Regular;
+}
+
+.ftable {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #FFFFFF;
+    font-family: Lato-Regular;
+    margin: 0;
+    padding: 0;
+}
+
+.calc {
+	background-color: rgba(127, 127, 127, .3);
+	width: 660px;
+	text-align: center;
+	margin: auto;
+}
+
+.txt {
+	font-size: 25px;
+	text-align:center;
+	
+}
+
+.price {
+	background-color: rgba(127, 127, 127, .0);
+	height: 50px;
+	width: 530px;
+	font-size: 30px;
+	line-height: 1.6;
+	text-align: right;
+	border:none;
+	margin-bottom: 0px;
+}
+
+.buybtn {
+	width: 200px;
+	height: 40px;
+	border: none;
+	background-color: #1D67D4;
+	color: #FFFFFF;
+	
+	position: relative;
+	margin:auto;
+	margin-top: 10px;
+	display:block;
+	text-align: center;
+}
+
+.canbtn {
+	width: 200px;
+	height: 40px;
+	border: none;
+	background-color: #1D67D4;
+	color: #FFFFFF;
+	
+	position: relative;
+	margin:auto;
+	margin-top: 10px;
+	display:block;
+	text-align: center;
+}
+
+.date {
+	font-size: 50px;
+	font-family: Lato-Regular;
+	margin: auto;
+}
+
+.rsvstat {
+	font-size: 50px;
+	font-family: Lato-Regular;
+	margin: auto;
+}
